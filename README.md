@@ -94,5 +94,4 @@ model = joblib.load("flood-prediction/flood_model.pkl")
 
 **Reneto Noble**
 
-📅 Timeline: Week 1 → Week 3
 
