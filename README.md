@@ -35,7 +35,7 @@ Sample Prediction: \[0.467625] | Actual: 0.455
 The trained Random Forest model is **~578 MB** and exceeds GitHub’s file size limit.  
 You can download it here:  
 
-➡️ [Download flood_model.pkl from Google Drive](https://drive.google.com/file/d/1oALoppH8_TY0sDiQysiE-TV_BgYJSTYY/view?usp=sharing)  
+➡️ [Download flood_model.pkl from Google Drive](https://drive.google.com/uc?id=1oALoppH8_TY0sDiQysiE-TV_BgYJSTYY)  
 
 **Load directly in Colab**:
 ```python
